@@ -1,6 +1,6 @@
 # YOLO，VOC数据集格式转换
 
-> yolo转换为voc
+> yolo转换为voc，使用之前删除dataset中的所有readme.md
 
 ## YOLO数据集格式
 
